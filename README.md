@@ -1,2 +1,2 @@
 # TermPlus
-Terminal program for serial communication
+GUI Terminal Emulator for serial communication
